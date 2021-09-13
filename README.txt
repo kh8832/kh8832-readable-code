@@ -1,1 +1,2 @@
 今日使用する言語はPythonです
+https://prod.liveshare.vsengsaas.visualstudio.com/join?02D0EDA3A772F87CE838D6984ABF86E3AECD
